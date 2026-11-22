@@ -1,0 +1,27 @@
+=====================================================
+      COLLEGE HEALTH CENTRE - CLINIC VISIT SUMMARY   
+=====================================================
+
+Total Students Processed: 33
+
+--- PRIORITY DISTRIBUTION ---
+  SEE NOW : 10
+  TODAY   : 14
+  ROUTINE : 9
+
+--- CATEGORY DISTRIBUTION ---
+  Injury     : 6
+  Fever/Cold : 5
+  Stomach    : 5
+  Pain       : 9
+  Allergy    : 3
+  Other      : 5
+
+--- HOURLY ARRIVAL COUNTS ---
+  09:00 - 09:59 : 8
+  10:00 - 10:59 : 9
+  11:00 - 11:59 : 13
+  12:00 - 12:59 : 3
+
+Total Red-Flag Cases Detected: 10
+=====================================================

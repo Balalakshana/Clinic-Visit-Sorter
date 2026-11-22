@@ -1,0 +1,34 @@
+id,time,priority,category,is_red_flag,summary,note
+V04,09:31,see_now,pain,YES,Chest pain and shortness of breath,Chest pain and difficulty breathing after climbing stairs
+V05,09:38,see_now,pain,YES,Chest pain and heavy feeling on left side,Nenju vali irukku romba heavy feeling left side
+V08,09:55,see_now,injury,YES,Cut finger with heavy bleeding not stopping,Cut finger with cutter blade bleeding heavily not stopping
+V09,10:02,see_now,allergy,YES,Sudden swelling of lips and face after eating,Sudden swelling in lips and face after eating peanut biscuits
+V10,10:08,see_now,injury,YES,"Fainted, hit head on floor",Fainted during morning assembly and hit head on floor
+V11,10:15,see_now,fever_cold,YES,Wheezing sound and difficulty breathing,Moochu vida mudiyala wheezing sound coming
+V23,11:34,see_now,pain,YES,"Severe back spasm, inability to stand upright or walk",Severe back spasm cannot stand upright or walk
+V26,11:51,see_now,other,YES,Dizziness and feeling like blacking out while standing,Dizziness and feeling like blacking out while standing
+V29,11:58,see_now,pain,YES,"Chest pain and difficulty breathing, feeling scared",நெஞ்சு வலி மூச்சு திணறல் பயமாக இருக்கிறது
+V32,12:01,see_now,pain,YES,Severe headache and blurred vision since morning,Severe headache and blurred vision since morning
+V01,09:05,today,injury,NO,"Twisted ankle, swelling and difficulty walking",Twisted my ankle playing football. It is swollen and I can't walk properly
+V02,09:12,today,stomach,NO,Severe burning stomach pain and repeated vomiting,Severe burning stomach pain since midnight vomiting repeatedly
+V13,10:28,today,fever_cold,NO,"Fever, body pain and shivering for two days",Enakku fever and body pain since two days shivering
+V14,10:35,today,injury,NO,"Fell while cycling, knee swelling",Kai la swelling irukku fell down while cycling
+V15,10:42,today,stomach,NO,"Loose stools, severe dehydration, dizziness",Loose stools and severe dehydration feeling dizzy
+V16,10:48,today,fever_cold,NO,Severe throat pain and difficulty swallowing water,Severe throat pain unable to swallow water
+V18,11:02,today,injury,NO,"Cat scratch with slight bleeding, request for TT injection",Cat scratched my hand bleeding slightly need TT injection
+V19,11:08,today,stomach,NO,"Severe stomach pain, unable to sit",Vayiru vali romba irukku unable to sit in lecture hall
+V21,11:22,today,allergy,NO,Red rashes all over skin with continuous itching,Red rashes all over skin itching continuously
+V22,11:28,today,fever_cold,NO,"High fever, dry cough and chills",High fever 102 F with dry cough and chills
+V24,11:40,today,injury,NO,Burn on hand from hot tea,Burn injury on hand from hot tea in canteen
+V28,11:57,today,stomach,NO,"Stomach upset, acidity and nausea after eating",Stomach upset after eating mess food acidity and nausea
+V31,12:00,today,stomach,NO,"Stomach upset, acidity and nausea after eating",Stomach upset after eating mess food acidity and nausea
+V33,12:02,today,pain,NO,"Headache, nausea, and light sensitivity",Migraine attack with nausea and sensitivity to light
+V03,09:20,routine,fever_cold,NO,Feeling cold and sneezing,Feeling a little cold and sneezing
+V06,09:44,routine,other,NO,Request for medical certificate,Need a medical certificate for missing yesterday's class
+V07,09:50,routine,pain,NO,Mild headache since yesterday night,Mild headache since yesterday night need paracetamol
+V12,10:22,routine,pain,NO,"Headache since morning, unable to study",Thalai vali romba irukku since morning unable to study
+V17,10:55,routine,other,NO,Request for blood pressure checkup and fitness form,Need blood pressure checkup for annual fitness form
+V20,11:15,routine,pain,NO,Knee pain after running marathon practice,Knee pain after running marathon practice yesterday
+V25,11:46,routine,allergy,NO,Dust allergy sneezing and watery eyes,Dust allergy sneezing continuously and watery eyes
+V27,11:55,routine,other,NO,Request for hostel sick room leave permission slip,Request for hostel sick room leave permission slip
+V30,11:59,routine,other,NO,Routine query for general health checkup and eye test,General health checkup routine query for eye test
